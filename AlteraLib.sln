@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlteraLib", "AlteraLib\AlteraLib.csproj", "{ADF394AA-6815-4B81-8C36-CC08B2FBBDA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nios2-terminal", "nios2-terminal\nios2-terminal.csproj", "{68D21EA8-FBEE-4CE4-B826-6C670C67DF9E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF394AA-6815-4B81-8C36-CC08B2FBBDA2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF394AA-6815-4B81-8C36-CC08B2FBBDA2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF394AA-6815-4B81-8C36-CC08B2FBBDA2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF394AA-6815-4B81-8C36-CC08B2FBBDA2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68D21EA8-FBEE-4CE4-B826-6C670C67DF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D21EA8-FBEE-4CE4-B826-6C670C67DF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D21EA8-FBEE-4CE4-B826-6C670C67DF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D21EA8-FBEE-4CE4-B826-6C670C67DF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
